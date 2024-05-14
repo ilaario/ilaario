@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Al momento, sto lavorando a progetti universitari, come Sistemi Operativi, Programmazione III, Algoritmi e Database<br>🌱 Sto imparando a vivere la mia vita senza causare il Third Impact<br>⚡ Fun fact - Prima di iscrivermi all'università di Informatica, ho frequentato il Liceo Artistico
+🔭 Al momento, sto lavorando a progetti universitari, come Sistemi Operativi, IUM-TWEB e ML&AI<br>🌱 Sto imparando a vivere la mia vita senza causare il Third Impact<br>⚡ Fun fact - Prima di iscrivermi all'università di Informatica, ho frequentato il Liceo Artistico
 
 
 ## 🌐 Socials:
